@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cria-index-plugin-loader-notion"
+name = "cria-plugin-loader-notion"
 version = "0.1.0"
 description = ""
 authors = ["Andrei Fajardo <andrei@nerdai.io>"]
