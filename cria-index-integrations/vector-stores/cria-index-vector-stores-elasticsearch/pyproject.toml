@@ -2,11 +2,13 @@
 name = "cria-vector-stores-elasticsearch"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Andrei Fajardo <andrei@nerdai.io>"]
 readme = "README.md"
+packages = [{include = "cria_index"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+cria-core = "^0.1.0"
 
 
 [build-system]
