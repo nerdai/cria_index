@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cria-core"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Andrei Fajardo <andrei@nerdai.io>"]
 readme = "README.md"
