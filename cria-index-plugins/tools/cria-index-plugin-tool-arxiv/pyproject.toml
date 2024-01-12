@@ -8,6 +8,8 @@ packages = [{include = "cria_index"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pytest = "^7.4.4"
+cria-core = "^0.1.1"
 
 
 [build-system]
