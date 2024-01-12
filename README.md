@@ -1,3 +1,6 @@
+## Project Structure
+
+```
 .
 ├── cria-index-core
 │   ├── README.md
@@ -46,3 +49,4 @@
             ├── pyproject.toml
             └── tests
                 └── __init__.py
+```
